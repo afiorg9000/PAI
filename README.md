@@ -1,8 +1,6 @@
 # PAI (Personal AI)
 
-## About the Project
-
-PAI (Personal AI) is a conversational AI assistant designed to assist in achieving self-actualization through an array of functionalities. Originally created to automate the journey through Maslow's hierarchy of needs framework, PAI offers a unique blend of AI-driven features to improve productivity, enhance accountability, and help manage time effectively. Built using OpenAI's Davinci API and Python, this project showcases the capability to create innovative AI solutions.
+PAI is a conversational AI assistant designed to assist in achieving self-actualization through an array of functionalities. Originally created to automate the journey through Maslow's hierarchy of needs framework, PAI offers a unique blend of AI-driven features to improve productivity, enhance accountability, and help manage time effectively. Built using OpenAI's Davinci API and Python, this project showcases the capability to create innovative AI solutions.
 
 ## Key Features
 
@@ -65,11 +63,3 @@ Open to contributions and collaborations. Feel free to submit a pull request or 
 
 - [Sofia Mendez](https://github.com/afiorg9000)
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-
-For more details, feel free to reach out or consult the documentation. Looking forward to seeing PAI help you on your journey towards self-actualization!
